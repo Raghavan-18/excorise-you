@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Plant a Sapling",
+    "description": "Plant a tree in your neighborhood and upload a picture.",
+    "points": 50,
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "title": "Zero Plastic Day",
+    "description": "Go a full day without using single-use plastics.",
+    "points": 30,
+    "status": "completed"
+  },
+  {
+    "id": 3,
+    "title": "Compost Setup",
+    "description": "Set up a small compost bin for your wet waste.",
+    "points": 100,
+    "status": "pending"
+  }
+]

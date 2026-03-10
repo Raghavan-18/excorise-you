@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Climate Change",
+    "level": "Beginner",
+    "progress": 100,
+    "explanation": "Climate change refers to long-term shifts in temperatures and weather patterns. Human activities have been the main driver of climate change, primarily due to the burning of fossil fuels like coal, oil and gas.",
+    "topics": [
+      {
+        "title": "What is Climate Change?",
+        "content": "Climate change refers to significant, long-term changes in the global climate. While the Earth's climate has changed naturally over its history, the current changes are happening at an unprecedented rate, primarily driven by human activities."
+      },
+      {
+        "title": "Causes of Climate Change",
+        "content": "The main driver is the 'greenhouse effect'. When we burn fossil fuels (like coal, oil, and natural gas) for energy, we release greenhouse gases such as carbon dioxide (CO2) and methane into the atmosphere. These gases trap heat from the sun, causing the planet to warm up. Deforestation also contributes because trees absorb CO2."
+      },
+      {
+        "title": "Impacts on Earth",
+        "content": "The warming of the planet leads to severe consequences: melting polar ice caps, rising sea levels, and more extreme weather events like hurricanes, heatwaves, and droughts. It also threatens wildlife habitats and human food security."
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "Which of the following is a greenhouse gas?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+          "answer": "Carbon Dioxide"
+        },
+        {
+          "question": "What is the main cause of global warming?",
+          "options": ["Volcanic eruptions", "Deforestation", "Burning fossil fuels", "Solar radiation"],
+          "answer": "Burning fossil fuels"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Waste Segregation Basics",
+    "level": "Intermediate",
+    "progress": 50,
+    "explanation": "Waste segregation is the process of separating solid waste into different categories. The most common categories are wet waste (biodegradable) and dry waste (non-biodegradable).",
+    "topics": [
+      {
+        "title": "Wet vs Dry Waste",
+        "content": "Wet waste consists of biodegradable materials like leftover food, fruit peels, tea leaves, and garden waste. It can be composted to create natural fertilizer. Dry waste includes non-biodegradable items like plastics, glass, paper, cardboard, and metals."
+      },
+      {
+        "title": "Recyclable Materials",
+        "content": "Many items in our dry waste can be recycled. Paper, cardboard, glass bottles, and certain types of plastics can be processed and turned into new products. Recycling reduces the need to extract raw materials from the Earth and saves energy."
+      },
+      {
+        "title": "E-Waste Management",
+        "content": "Electronic waste (e-waste) includes discarded electrical devices like old phones, laptops, and batteries. They contain hazardous materials like lead and mercury. E-waste must never be thrown in regular bins; it should be given to specialized e-waste recycling centers to prevent toxic chemicals from leaking into the soil and water."
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "Which bin is used for wet waste?",
+          "options": ["Blue", "Green", "Red", "Yellow"],
+          "answer": "Green"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Water Conservation",
+    "level": "Advanced",
+    "progress": 0,
+    "explanation": "Water conservation includes all the policies, strategies and activities to sustainably manage the natural resource of fresh water, to protect the hydrosphere, and to meet the current and future human demand.",
+    "topics": [
+      {
+        "title": "Rainwater Harvesting",
+        "content": "Rainwater harvesting is the practice of collecting and storing rain, rather than allowing it to run off. The collected water is typically stored in tanks or directed into the ground to recharge groundwater levels. It's a sustainable way to ensure water availability during dry seasons."
+      },
+      {
+        "title": "Reducing Water Wastage",
+        "content": "Simple daily habits can save hundreds of gallons of water. This includes fixing leaky faucets, taking shorter showers, turning off the tap while brushing your teeth, and using water-efficient appliances. Every drop counts!"
+      },
+      {
+        "title": "Water Pollution",
+        "content": "Water pollution occurs when harmful substances like industrial chemicals, agricultural pesticides, and plastic trash contaminate rivers, lakes, and oceans. This degrades water quality, making it toxic to humans and marine life. Protecting our water sources is just as important as conserving them."
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is rainwater harvesting?",
+          "options": ["Collecting rain for future use", "Creating artificial rain", "Purifying sea water", "None of the above"],
+          "answer": "Collecting rain for future use"
+        }
+      ]
+    }
+  }
+]
